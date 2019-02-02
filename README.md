@@ -1,1 +1,1 @@
-Face-Detection using Haar Cascade in OpenCv
+Face-Detection using Haar Cascade in OpenCV
